@@ -1,0 +1,19 @@
+- name: "Sebastien's home"
+  description: "Charming room in Montmarte"
+  score: 4
+  owner: ssaunier
+  city: Paris
+  country: France
+- name: "Boris' home"
+  description: "Small flat in Tokyo"
+  score: 3
+  owner: papillard
+  city: Tokyo
+  country: Japan
+- name: Romain's home
+  description: Nice flat in Piccadilly
+  score: 5
+  owner: monsieurpaillard
+  city: London
+  country: UK
+
